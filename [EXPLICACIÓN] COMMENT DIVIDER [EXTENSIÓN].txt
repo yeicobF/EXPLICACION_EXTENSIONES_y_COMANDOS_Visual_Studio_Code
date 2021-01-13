@@ -1,0 +1,33 @@
+Martes, 12 de enero del 2021 [10:56 PM - 11:04 PM]
+
+Extensión que genera comentarios automáticos con un formato dependiendo de que
+    combinación de tecla utilices. Los comentarios por default ocuparán 80
+    caracteres.
+
+Aún así, podemos modificar la configuración para que sea personalizable a lo que
+    más nos agrade.
+
+¿CÓMO UTILIZARLO?
+    Hay que escribir una línea de texto y después teclear el comando dependiendo
+        del resultado deseado.
+
+COMANDOS con RESULTADO:
+
+---- Make main header: Shift + Alt + X -----------------------------------------
+
+
+/* -------------------------------------------------------------------------- */
+/*                                Example text                                */
+/* -------------------------------------------------------------------------- */
+
+
+---- Make subheader: Alt + X ---------------------------------------------------
+
+
+/* ------------------------------ Example text ------------------------------ */
+
+
+---- Insert solid line: Alt + Y -----------------------------------------------
+
+
+/* -------------------------------------------------------------------------- */

@@ -1,0 +1,33 @@
+ - Martes, 12 de enero del 2021 [08:35 PM - 09:05 PM]
+
+ Better Comments es una extensión para que las letras cambien a un color más
+    vivo y los comentarios sean más visibles al momento de agregarles un
+    indicador.
+
+Según la misma explicación de la extensión:
+    "The Better Comments extension will help you create more human-friendly
+        comments in your code.
+    With this extension, you will be able to categorise your annotations into:
+        - Alerts
+        - Queries
+        - TODOs
+        - Highlights
+        - Commented out code can also be styled to make it clear the code
+            shouldn't be there.
+        - Any other comment styles you'd like can be specified in the settings."
+
+INDICADORES:
+
+/**
+ * COMENTARIO NORMAL
+ * * COMENTARIO IMPORTANTE
+ * ! DEPRECATED METHOD: Método que ya no es importante. De hecho no debería
+ * !    ser utilizado.
+ * ? Preguntas o dudas.
+ * TODO: Cosas por hacer.
+ * @param parámetro : Parámetro de un método.
+ * // Comentario que será tachado visualmente.
+*/
+
+ - En el caso de otros lenguajes, Python por ejemplo, aunque la sintaxis de los
+    comentarios sea diferente, los indicadores son iguales.
